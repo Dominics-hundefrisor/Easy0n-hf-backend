@@ -1,8 +1,9 @@
 package com.example.easy0nhfbackend.contact;
 
-import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
 
 @Data
 @NoArgsConstructor
